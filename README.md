@@ -26,23 +26,10 @@ The weight of wrongly classifying sample to potable is equal to wrongly classify
 ## Website
 Our website to evaluate if water has quality or not.
 <img width="1237" alt="Screen Shot 2021-11-08 at 2 42 15 PM" src="https://user-images.githubusercontent.com/20365333/140736132-ec7b7b74-6f2d-4cdb-bcac-489e257ed6be.png">
-* [AKN Water Quality](https://share.streamlit.io/a-safarji/water-quality-app/main/app.py) - Visit now!
-
-## Contact
-
-
-[ Water Quality Classification](https://github.com/A-safarji) - feel free to contact!
+* [KLC Water Quality](https://share.streamlit.io/a-safarji/water-quality-app/main/app.py) - Visit now!
 
 
 
 ## Status
 Project is: ![##c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) _done_
 
-
-# Contributors
-------------
-# Team Memebers 
-
-* [Abdultawwab Safarji](https://github.com/A-safarji)
-* [Khalid Saleh](https://github.com/KhalidSaleh98)  
-* [Najla Mohammed](https://github.com/Najla1998m)  
